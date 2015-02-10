@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FirstOne</string>
+    <string name="hello_world">Hello jhjhjhjh!</string>
+    <string name="action_settings">Settings</string>
+    <string name="myname">Hello</string>
+
+    <string name="welcome">WELCOME</string>
+
+</resources>
